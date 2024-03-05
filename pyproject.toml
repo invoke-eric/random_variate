@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "simulation"
+name = "random_variate"
 version = "0.1.0"
 description = ""
 authors = ["eric <eric.loui@crowdstrike.com>"]
