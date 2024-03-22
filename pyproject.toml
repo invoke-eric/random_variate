@@ -2,7 +2,7 @@
 name = "random_variate"
 version = "0.1.0"
 description = ""
-authors = ["eric <eric.loui@crowdstrike.com>"]
+authors = ["<eloui3@gatech.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
